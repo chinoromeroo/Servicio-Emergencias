@@ -1,0 +1,151 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Valentin\\Desktop\\UTN\\TERCER CUATRIMESTRE\\Programas III\\ServEmergencias\\Emergencias\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8C4C7BD0-61C2-45C0-AA2C-E649A7CE6643}|Emergencias.csproj|c:\\users\\valentin\\desktop\\utn\\tercer cuatrimestre\\programas iii\\servemergencias\\emergencias\\ccontroladora.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C4C7BD0-61C2-45C0-AA2C-E649A7CE6643}|Emergencias.csproj|solutionrelative:ccontroladora.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C4C7BD0-61C2-45C0-AA2C-E649A7CE6643}|Emergencias.csproj|c:\\users\\valentin\\desktop\\utn\\tercer cuatrimestre\\programas iii\\servemergencias\\emergencias\\cprofesional.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C4C7BD0-61C2-45C0-AA2C-E649A7CE6643}|Emergencias.csproj|solutionrelative:cprofesional.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C4C7BD0-61C2-45C0-AA2C-E649A7CE6643}|Emergencias.csproj|c:\\users\\valentin\\desktop\\utn\\tercer cuatrimestre\\programas iii\\servemergencias\\emergencias\\cvehiculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C4C7BD0-61C2-45C0-AA2C-E649A7CE6643}|Emergencias.csproj|solutionrelative:cvehiculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C4C7BD0-61C2-45C0-AA2C-E649A7CE6643}|Emergencias.csproj|c:\\users\\valentin\\desktop\\utn\\tercer cuatrimestre\\programas iii\\servemergencias\\emergencias\\cempresa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C4C7BD0-61C2-45C0-AA2C-E649A7CE6643}|Emergencias.csproj|solutionrelative:cempresa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C4C7BD0-61C2-45C0-AA2C-E649A7CE6643}|Emergencias.csproj|c:\\users\\valentin\\desktop\\utn\\tercer cuatrimestre\\programas iii\\servemergencias\\emergencias\\cempleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C4C7BD0-61C2-45C0-AA2C-E649A7CE6643}|Emergencias.csproj|solutionrelative:cempleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C4C7BD0-61C2-45C0-AA2C-E649A7CE6643}|Emergencias.csproj|c:\\users\\valentin\\desktop\\utn\\tercer cuatrimestre\\programas iii\\servemergencias\\emergencias\\cdotaciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C4C7BD0-61C2-45C0-AA2C-E649A7CE6643}|Emergencias.csproj|solutionrelative:cdotaciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C4C7BD0-61C2-45C0-AA2C-E649A7CE6643}|Emergencias.csproj|c:\\users\\valentin\\desktop\\utn\\tercer cuatrimestre\\programas iii\\servemergencias\\emergencias\\cchofer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C4C7BD0-61C2-45C0-AA2C-E649A7CE6643}|Emergencias.csproj|solutionrelative:cchofer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C4C7BD0-61C2-45C0-AA2C-E649A7CE6643}|Emergencias.csproj|c:\\users\\valentin\\desktop\\utn\\tercer cuatrimestre\\programas iii\\servemergencias\\emergencias\\cinterfaz.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C4C7BD0-61C2-45C0-AA2C-E649A7CE6643}|Emergencias.csproj|solutionrelative:cinterfaz.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CProfesional.cs",
+              "DocumentMoniker": "C:\\Users\\Valentin\\Desktop\\UTN\\TERCER CUATRIMESTRE\\Programas III\\ServEmergencias\\Emergencias\\CProfesional.cs",
+              "RelativeDocumentMoniker": "CProfesional.cs",
+              "ToolTip": "C:\\Users\\Valentin\\Desktop\\UTN\\TERCER CUATRIMESTRE\\Programas III\\ServEmergencias\\Emergencias\\CProfesional.cs",
+              "RelativeToolTip": "CProfesional.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-21T17:11:14.67Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CInterfaz.cs",
+              "DocumentMoniker": "C:\\Users\\Valentin\\Desktop\\UTN\\TERCER CUATRIMESTRE\\Programas III\\ServEmergencias\\Emergencias\\CInterfaz.cs",
+              "RelativeDocumentMoniker": "CInterfaz.cs",
+              "ToolTip": "C:\\Users\\Valentin\\Desktop\\UTN\\TERCER CUATRIMESTRE\\Programas III\\ServEmergencias\\Emergencias\\CInterfaz.cs",
+              "RelativeToolTip": "CInterfaz.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAxwA4AAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-21T17:11:14.691Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CEmpresa.cs",
+              "DocumentMoniker": "C:\\Users\\Valentin\\Desktop\\UTN\\TERCER CUATRIMESTRE\\Programas III\\ServEmergencias\\Emergencias\\CEmpresa.cs",
+              "RelativeDocumentMoniker": "CEmpresa.cs",
+              "ToolTip": "C:\\Users\\Valentin\\Desktop\\UTN\\TERCER CUATRIMESTRE\\Programas III\\ServEmergencias\\Emergencias\\CEmpresa.cs",
+              "RelativeToolTip": "CEmpresa.cs",
+              "ViewState": "AQIAAKIAAAAAAAAAAAAkwKgAAABHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-21T17:11:14.693Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CEmpleado.cs",
+              "DocumentMoniker": "C:\\Users\\Valentin\\Desktop\\UTN\\TERCER CUATRIMESTRE\\Programas III\\ServEmergencias\\Emergencias\\CEmpleado.cs",
+              "RelativeDocumentMoniker": "CEmpleado.cs",
+              "ToolTip": "C:\\Users\\Valentin\\Desktop\\UTN\\TERCER CUATRIMESTRE\\Programas III\\ServEmergencias\\Emergencias\\CEmpleado.cs",
+              "RelativeToolTip": "CEmpleado.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACAAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-21T17:11:14.694Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CDotaciones.cs",
+              "DocumentMoniker": "C:\\Users\\Valentin\\Desktop\\UTN\\TERCER CUATRIMESTRE\\Programas III\\ServEmergencias\\Emergencias\\CDotaciones.cs",
+              "RelativeDocumentMoniker": "CDotaciones.cs",
+              "ToolTip": "C:\\Users\\Valentin\\Desktop\\UTN\\TERCER CUATRIMESTRE\\Programas III\\ServEmergencias\\Emergencias\\CDotaciones.cs",
+              "RelativeToolTip": "CDotaciones.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAkAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-21T17:11:14.695Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CControladora.cs",
+              "DocumentMoniker": "C:\\Users\\Valentin\\Desktop\\UTN\\TERCER CUATRIMESTRE\\Programas III\\ServEmergencias\\Emergencias\\CControladora.cs",
+              "RelativeDocumentMoniker": "CControladora.cs",
+              "ToolTip": "C:\\Users\\Valentin\\Desktop\\UTN\\TERCER CUATRIMESTRE\\Programas III\\ServEmergencias\\Emergencias\\CControladora.cs",
+              "RelativeToolTip": "CControladora.cs",
+              "ViewState": "AQIAAJMAAAAAAAAAAADgv7MAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-21T17:11:14.697Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CChofer.cs",
+              "DocumentMoniker": "C:\\Users\\Valentin\\Desktop\\UTN\\TERCER CUATRIMESTRE\\Programas III\\ServEmergencias\\Emergencias\\CChofer.cs",
+              "RelativeDocumentMoniker": "CChofer.cs",
+              "ToolTip": "C:\\Users\\Valentin\\Desktop\\UTN\\TERCER CUATRIMESTRE\\Programas III\\ServEmergencias\\Emergencias\\CChofer.cs",
+              "RelativeToolTip": "CChofer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-21T17:11:14.699Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CVehiculo.cs",
+              "DocumentMoniker": "C:\\Users\\Valentin\\Desktop\\UTN\\TERCER CUATRIMESTRE\\Programas III\\ServEmergencias\\Emergencias\\CVehiculo.cs",
+              "RelativeDocumentMoniker": "CVehiculo.cs",
+              "ToolTip": "C:\\Users\\Valentin\\Desktop\\UTN\\TERCER CUATRIMESTRE\\Programas III\\ServEmergencias\\Emergencias\\CVehiculo.cs",
+              "RelativeToolTip": "CVehiculo.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAADwvx4AAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-21T17:11:14.701Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+C:\Users\Valentin\Desktop\ServEmergencias\Emergencias\bin\Debug\net6.0\Emergencias.exe
+C:\Users\Valentin\Desktop\ServEmergencias\Emergencias\bin\Debug\net6.0\Emergencias.deps.json
+C:\Users\Valentin\Desktop\ServEmergencias\Emergencias\bin\Debug\net6.0\Emergencias.runtimeconfig.json
+C:\Users\Valentin\Desktop\ServEmergencias\Emergencias\bin\Debug\net6.0\Emergencias.dll
+C:\Users\Valentin\Desktop\ServEmergencias\Emergencias\bin\Debug\net6.0\Emergencias.pdb
+C:\Users\Valentin\Desktop\ServEmergencias\Emergencias\obj\Debug\net6.0\Emergencias.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Valentin\Desktop\ServEmergencias\Emergencias\obj\Debug\net6.0\Emergencias.AssemblyInfoInputs.cache
+C:\Users\Valentin\Desktop\ServEmergencias\Emergencias\obj\Debug\net6.0\Emergencias.AssemblyInfo.cs
+C:\Users\Valentin\Desktop\ServEmergencias\Emergencias\obj\Debug\net6.0\Emergencias.csproj.CoreCompileInputs.cache
+C:\Users\Valentin\Desktop\ServEmergencias\Emergencias\obj\Debug\net6.0\Emergencias.dll
+C:\Users\Valentin\Desktop\ServEmergencias\Emergencias\obj\Debug\net6.0\refint\Emergencias.dll
+C:\Users\Valentin\Desktop\ServEmergencias\Emergencias\obj\Debug\net6.0\Emergencias.pdb
+C:\Users\Valentin\Desktop\ServEmergencias\Emergencias\obj\Debug\net6.0\Emergencias.genruntimeconfig.cache
+C:\Users\Valentin\Desktop\ServEmergencias\Emergencias\obj\Debug\net6.0\ref\Emergencias.dll
+C:\Users\Valentin\Desktop\UTN\Programas III\ServEmergencias\Emergencias\bin\Debug\net6.0\Emergencias.exe
+C:\Users\Valentin\Desktop\UTN\Programas III\ServEmergencias\Emergencias\bin\Debug\net6.0\Emergencias.deps.json
+C:\Users\Valentin\Desktop\UTN\Programas III\ServEmergencias\Emergencias\bin\Debug\net6.0\Emergencias.runtimeconfig.json
+C:\Users\Valentin\Desktop\UTN\Programas III\ServEmergencias\Emergencias\bin\Debug\net6.0\Emergencias.dll
+C:\Users\Valentin\Desktop\UTN\Programas III\ServEmergencias\Emergencias\bin\Debug\net6.0\Emergencias.pdb
+C:\Users\Valentin\Desktop\UTN\Programas III\ServEmergencias\Emergencias\obj\Debug\net6.0\Emergencias.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Valentin\Desktop\UTN\Programas III\ServEmergencias\Emergencias\obj\Debug\net6.0\Emergencias.AssemblyInfoInputs.cache
+C:\Users\Valentin\Desktop\UTN\Programas III\ServEmergencias\Emergencias\obj\Debug\net6.0\Emergencias.AssemblyInfo.cs
+C:\Users\Valentin\Desktop\UTN\Programas III\ServEmergencias\Emergencias\obj\Debug\net6.0\Emergencias.csproj.CoreCompileInputs.cache
+C:\Users\Valentin\Desktop\UTN\Programas III\ServEmergencias\Emergencias\obj\Debug\net6.0\Emergencias.dll
+C:\Users\Valentin\Desktop\UTN\Programas III\ServEmergencias\Emergencias\obj\Debug\net6.0\refint\Emergencias.dll
+C:\Users\Valentin\Desktop\UTN\Programas III\ServEmergencias\Emergencias\obj\Debug\net6.0\Emergencias.pdb
+C:\Users\Valentin\Desktop\UTN\Programas III\ServEmergencias\Emergencias\obj\Debug\net6.0\Emergencias.genruntimeconfig.cache
+C:\Users\Valentin\Desktop\UTN\Programas III\ServEmergencias\Emergencias\obj\Debug\net6.0\ref\Emergencias.dll
+C:\Users\Valentin\Desktop\UTN\TERCER CUATRIMESTRE\Programas III\ServEmergencias\Emergencias\bin\Debug\net6.0\Emergencias.exe
+C:\Users\Valentin\Desktop\UTN\TERCER CUATRIMESTRE\Programas III\ServEmergencias\Emergencias\bin\Debug\net6.0\Emergencias.deps.json
+C:\Users\Valentin\Desktop\UTN\TERCER CUATRIMESTRE\Programas III\ServEmergencias\Emergencias\bin\Debug\net6.0\Emergencias.runtimeconfig.json
+C:\Users\Valentin\Desktop\UTN\TERCER CUATRIMESTRE\Programas III\ServEmergencias\Emergencias\bin\Debug\net6.0\Emergencias.dll
+C:\Users\Valentin\Desktop\UTN\TERCER CUATRIMESTRE\Programas III\ServEmergencias\Emergencias\bin\Debug\net6.0\Emergencias.pdb
+C:\Users\Valentin\Desktop\UTN\TERCER CUATRIMESTRE\Programas III\ServEmergencias\Emergencias\obj\Debug\net6.0\Emergencias.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Valentin\Desktop\UTN\TERCER CUATRIMESTRE\Programas III\ServEmergencias\Emergencias\obj\Debug\net6.0\Emergencias.AssemblyInfoInputs.cache
+C:\Users\Valentin\Desktop\UTN\TERCER CUATRIMESTRE\Programas III\ServEmergencias\Emergencias\obj\Debug\net6.0\Emergencias.AssemblyInfo.cs
+C:\Users\Valentin\Desktop\UTN\TERCER CUATRIMESTRE\Programas III\ServEmergencias\Emergencias\obj\Debug\net6.0\Emergencias.csproj.CoreCompileInputs.cache
+C:\Users\Valentin\Desktop\UTN\TERCER CUATRIMESTRE\Programas III\ServEmergencias\Emergencias\obj\Debug\net6.0\Emergencias.dll
+C:\Users\Valentin\Desktop\UTN\TERCER CUATRIMESTRE\Programas III\ServEmergencias\Emergencias\obj\Debug\net6.0\refint\Emergencias.dll
+C:\Users\Valentin\Desktop\UTN\TERCER CUATRIMESTRE\Programas III\ServEmergencias\Emergencias\obj\Debug\net6.0\Emergencias.pdb
+C:\Users\Valentin\Desktop\UTN\TERCER CUATRIMESTRE\Programas III\ServEmergencias\Emergencias\obj\Debug\net6.0\Emergencias.genruntimeconfig.cache
+C:\Users\Valentin\Desktop\UTN\TERCER CUATRIMESTRE\Programas III\ServEmergencias\Emergencias\obj\Debug\net6.0\ref\Emergencias.dll
